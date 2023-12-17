@@ -1,16 +1,28 @@
-# Weclome to My Gitub Profile 👋
+<h1 align="center"> 
+  <p>Hey, I'm Aisha Saeid Qalmouz ⭐👋</p>
+</h1>
 <br>
- I'm Aisha Saeid Qalmouz 
+### Software developer Web & Apps
 <br>
-Software developer Web & Apps
+<div algin="center">
+ <ul align="center" style="list-style:none;">
+  <li>
+   What I Do: I analyze, program, and design websites and applications
+  </li>
+  <li>
+   My Tools: #C, Html, Css, Javascript, Node js.
+  </li>
+  <li>
+   My Framework: Bootstrap 4/5, Vue js, Angular js .
+  </li>
+  <li>
+  My Management Tools: Notion .
+  </li>
+ </ol>
+</div>
 <br>
-What I Do: I analyze, program, and design websites and applications
 <br>
-My Tools: #C, Html, Css, Javascript, Node js.
 <br>
-My Framework: Bootstrap 4/5, Vue js, Angular js .
-<br>
-My Management Tools: Notion .
 
 
 <!--
