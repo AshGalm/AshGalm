@@ -3,7 +3,7 @@
 </h1>
 <h4> Software developer Web 🖥️ & Apps📱 </h4> 
   <h5>What I Do: I analyze 🔭, program 👩‍💻, and design ✍️ websites and applications 🖥️</h5>
-  <h5>🧰 MyTools : #C, Html, Css, Javascript, Node js.</h5>
+  <h5>🧰 MyTools : #C, Html, Css, Javascript, Node js., Dart, Flutter</h5>
   <h5>💛 My Framework: Bootstrap 4/5, Vue js, Angular js.</h5>
   <h5>📚 My Management Tools: Notion.</h5>
 
