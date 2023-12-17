@@ -11,7 +11,9 @@
 The beginning of a journey to learn the web that began in 2017 at the Institute of Technology and continued until 2020. I stopped and focused on programming Flutter applications until now. I started returning to programming websites at the beginning of the year 2023.
 
 <h3>My achievements:</h3>
+<br>
 Available on my linkedin page .
+<br>
 Shortcuts:
 1- IOM Phone maintenance and entrepreneurship camp.
 <br>
